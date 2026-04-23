@@ -9,4 +9,4 @@
 
 
 
-If you are interested in the method and package, please cancact lxingyu1996@gmail.com
+If you are interested in the method and package, please cancat with Xingyu Li: lxingyu1996@gmail.com
