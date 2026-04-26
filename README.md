@@ -1,5 +1,7 @@
 # M-high-learner
 
+The simulation and real data analysis code could be found at inst folder. 
+
 
 
 
