@@ -1,0 +1,12 @@
+exportPattern("^[[:alpha:]]+")
+export(n_levels,
+       to_numeric,
+       parse_split,
+       tree_where,
+       path_rpart,
+       predict_path,
+       profile_leafs,
+       plot_profile,
+       tree_fit,
+       count_var_in_single_path,
+       maximum_var_split)
