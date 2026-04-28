@@ -1,6 +1,6 @@
 # M-high-learner
 
-The simulation and real data analysis code could be found at inst folder. 
+The code for analyzing simulation and experimental data is located in the `inst` folder.
 
 
 
