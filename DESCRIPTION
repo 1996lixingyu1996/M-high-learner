@@ -28,9 +28,7 @@ Imports:
     RsqMed
 Depends: 
     R (>= 3.5),
-    survival,
     Rtsne,
-    survminer,
     randomForestSRC,
     mediation,
     rpart,
