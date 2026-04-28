@@ -1,6 +1,8 @@
 # M-high-learner
 
 The code for analyzing simulation and experimental data is located in the `inst` folder.
+please install R packages "ACAT" firstly.
+ACAT package link:https://github.com/yaowuliu/ACAT
 
 
 
