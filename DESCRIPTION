@@ -20,7 +20,6 @@ Imports:
     rpart.plot,
     randomForestSRC,
     patchwork,
-    ACAT,
     coda,
     viridis,
     Rtsne,
