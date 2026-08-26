@@ -6,7 +6,6 @@ Please install R packages "ACAT" firstly.
 
 ACAT package link:https://github.com/yaowuliu/ACAT
 
-Video instruction:https://youtu.be/0cCmMTm6Cj8
 
 ## 🎥 Video Presentation
 
