@@ -38,7 +38,7 @@ ACAT package link:https://github.com/yaowuliu/ACAT
 * **Core Pipeline:**
   1. **Filtering & Screening:** $R^2_{\text{med}}$-based screening followed by a single-mediator M-Learner to select relevant candidate mediators.
   2. **Joint Prediction:** Multivariate machine learning models for vector-valued mediators to account for co-regulatory networks.
-  3. **Subgroup Discovery:** Distance-based clustering (modified t-SNE + C-means) paired with interpretable decision trees to derive clinical subgroup rules.
+  3. **Subgroup Discovery:** Distance-based clustering (modified t-SNE + K-means) paired with interpretable decision trees to derive clinical subgroup rules.
 * **Empirical Validation:** Demonstrated on the *Framingham Heart Study*, identifying 4 distinct BMI- and age-defined subgroups with strong mediation signals ($R^2_{\text{med}} = 0.057, \text{SOS} = 0.36$).
 
 ---
